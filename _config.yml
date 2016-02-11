@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1186896
+color:
+  saturation: 0.1135546
+  lightness: 0.9356831
+  brandStrength: 0.170247
+  brandColors:
+    - '#6F654B'
+    - '#E0E0E1'
+    - '#CDB69B'
+    - '#423930'
+    - '#A36FB4'
+  rhythmicContrast: 0.5299982
+name: iphranque
