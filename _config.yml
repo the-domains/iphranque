@@ -1,14 +1,26 @@
-layout_spectrum: 1
-typography_spectrum: 0.1186896
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.1135546
+  brandStrength: 0.2035446
   lightness: 0.9356831
-  brandStrength: 0.170247
   brandColors:
-    - '#6F654B'
-    - '#E0E0E1'
-    - '#CDB69B'
-    - '#423930'
-    - '#A36FB4'
+    - '#FFFFFD'
+    - '#915C39'
+    - '#424B65'
+    - '#C6C5C6'
+    - '#C6A230'
   rhythmicContrast: 0.5299982
+typography_spectrum: 0.1186896
+layout_spectrum: 1
 name: iphranque
